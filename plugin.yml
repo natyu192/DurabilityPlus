@@ -1,0 +1,6 @@
+name: DurabilityPlus
+version: 0.0.1
+main: com.gmail.mckokumin.durability.Main
+commands:
+  setdurability:
+    permission: natyu.setdurability
